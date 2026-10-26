@@ -1,0 +1,14 @@
+{
+  "project": "kurt-godel-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "7E753e2U14eY58arBovqdteaTk7WibXDkHRyZwyYEqh",
+  "vault_account": "HJV5TUahoePjDFbXsWwzyzhR8bR9DbTr3AEWcEpT5dW9",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "37iEZrey83xxMiXX87sjWkCew992aqdYR4m44UXUYfpiEfYBgSvyov7U77KA38dv3DtfPLAEsz42V8Tw8ovjDQF8",
+  "account_tx": "5kX1D58NzkZD3ZTtY6YN9beQ5DV336KYKGNWXsdc4fQfLPenfCGKMH3J9qtZbr7R1yb7FERpF3JZC4fKhCMbeKnj",
+  "mint_tx": "5Kpxh5yPYSgaZKsXKsb5DigRWULk2guYzcdzqd4CmVWpsNFwfAtk35kon43PuDqx5uGTTizdJqvrS9wVGNnvY7F1",
+  "solana_explorer_mint": "https://explorer.solana.com/address/7E753e2U14eY58arBovqdteaTk7WibXDkHRyZwyYEqh?cluster=devnet",
+  "timestamp": "2026-10-26 16:46:28 UTC"
+}
